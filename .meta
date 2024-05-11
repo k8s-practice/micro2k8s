@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "history": "https://github.com/k8s-practice/history.git",
+    "video-streaming": "https://github.com/k8s-practice/video-streaming.git",
+    "db": "https://github.com/k8s-practice/db.git"
+  }
+}
